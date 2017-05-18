@@ -6,13 +6,7 @@ AvoiDz
 
 ## Description:
     This tool Generate encoded powershell with metasploit payloads,convert C & C# Templates to EXE's 
- 
-## Screenshot:
-![pic1](http://i.imgur.com/v3Jwj5g.png)
 
-![pic2](http://i.imgur.com/L6GCvpJ.png)
-
-<br /><br />
 
 ## Dependencies :
     1 - metasploit-framework
