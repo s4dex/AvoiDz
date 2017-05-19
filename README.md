@@ -1,5 +1,6 @@
 # AvoiDz
 AvoiDz
+Author: Mascerano Bachir [ dev-labs ]
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
     remember this is only for educational purpose.
